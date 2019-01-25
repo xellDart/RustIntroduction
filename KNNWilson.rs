@@ -1,3 +1,8 @@
+/*
+ KNN with Wilson edition
+ You can train and test ani data set like iris or ani csv with format [valu, vlaue, ..., class(string) ]
+ Developer: Miguel Angel Sánchez Bravo <masanchez@bankcoin.global>
+*/
 extern crate csv;
 extern crate rand;
 
